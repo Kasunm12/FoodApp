@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/IPK COMPUTER/Desktop/FoodApp/app/src/main/res/drawable/orange_button.xml" value="0.144" />
-        <entry key="..\:/Users/IPK COMPUTER/Desktop/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/IPK COMPUTER/Desktop/FoodApp/app/src/main/res/drawable/search_background.xml" value="0.2065" />
+        <entry key="..\:/Users/IPK COMPUTER/Desktop/FoodApp/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/IPK COMPUTER/Desktop/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/IPK COMPUTER/Desktop/FoodApp/app/src/main/res/layout/activity_main2.xml" value="0.2" />
       </map>
     </option>
   </component>
